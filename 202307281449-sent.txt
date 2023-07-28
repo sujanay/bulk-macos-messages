@@ -1,0 +1,2 @@
+recipients="12348176903 12146998640"
+message="Testing message"

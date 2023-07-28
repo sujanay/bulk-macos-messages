@@ -1,2 +1,0 @@
-recipients="1234567890 19876543210"
-message="Testing"
